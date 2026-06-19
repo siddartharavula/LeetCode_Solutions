@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,8 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
