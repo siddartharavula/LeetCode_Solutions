@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/siddartharavula/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -75,15 +77,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -94,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
