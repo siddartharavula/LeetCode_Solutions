@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Union-Find
@@ -130,8 +132,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0112-path-sum/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
