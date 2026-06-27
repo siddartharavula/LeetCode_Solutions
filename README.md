@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/siddartharavula/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0031-next-permutation](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
