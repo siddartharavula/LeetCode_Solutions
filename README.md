@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0125-valid-palindrome](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0402-remove-k-digits](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0031-next-permutation/) | Medium |
+| [0125-valid-palindrome](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
