@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/siddartharavula/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0402-remove-k-digits](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
