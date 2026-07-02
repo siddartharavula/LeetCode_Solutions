@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
