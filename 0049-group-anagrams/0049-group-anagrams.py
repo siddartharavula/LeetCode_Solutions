@@ -3,7 +3,7 @@ class Solution:
         ans=[]
         hm={}
         for x in strs:
-            key="".join(sorted(x))
+            key="".join(sorted(x))   # sorted("eat") gives ["a","e","t"]
             if key not in hm:
                 hm[key]=[x]
             else:
