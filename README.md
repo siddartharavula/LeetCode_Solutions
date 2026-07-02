@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0038-count-and-say/) | Medium |
+| [0043-multiply-strings](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -203,9 +204,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0735-asteroid-collision](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0043-multiply-strings](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0043-multiply-strings/) | Medium |
 <!---LeetCode Topics End-->
