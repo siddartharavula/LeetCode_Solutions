@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
