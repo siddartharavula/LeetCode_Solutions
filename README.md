@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0031-next-permutation/) | Medium |
+| [0045-jump-game-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/siddartharavula/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Design
