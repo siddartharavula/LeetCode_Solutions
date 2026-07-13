@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0112-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0112-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0112-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0993-cousins-in-binary-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0993-cousins-in-binary-tree/) | Easy |
@@ -244,5 +247,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
