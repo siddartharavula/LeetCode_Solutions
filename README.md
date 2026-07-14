@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3975-filter-occupied-intervals](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/3975-filter-occupied-intervals/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3975-filter-occupied-intervals](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/3975-filter-occupied-intervals/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
