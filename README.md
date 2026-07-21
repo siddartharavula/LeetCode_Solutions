@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0735-asteroid-collision](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Greedy
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
