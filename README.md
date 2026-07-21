@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/siddartharavula/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0063-unique-paths-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0075-sort-colors](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Greedy
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
 ## Design
