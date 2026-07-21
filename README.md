@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
 ## Design
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0062-unique-paths](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
