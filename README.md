@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0120-triangle](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0198-house-robber](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0120-triangle](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
 ## Design
