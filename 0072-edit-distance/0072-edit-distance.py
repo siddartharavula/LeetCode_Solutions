@@ -3,6 +3,7 @@ class Solution:
         n=len(word1)
         m=len(word2)
         dp=[[float(inf)]*(m+1) for _ in range(n+1)]
+        # because here we deal with 1 based indexing, we assign i only insted of i+1 which is used in recursion
         for i in range(m+1):
             dp[0][i]=i
         for i in range(n+1):
