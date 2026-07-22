@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0115-distinct-subsequences](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0115-distinct-subsequences](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0120-triangle/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
