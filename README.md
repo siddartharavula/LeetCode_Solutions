@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
