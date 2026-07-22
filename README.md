@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0038-count-and-say](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0044-wildcard-matching](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0402-remove-k-digits](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0402-remove-k-digits/) | Medium |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0062-unique-paths/) | Medium |
