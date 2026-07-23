@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0704-binary-search](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
 ## Combinatorics
