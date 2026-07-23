@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0031-next-permutation/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/siddartharavula/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
