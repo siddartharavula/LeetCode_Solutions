@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0704-binary-search](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0704-binary-search](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0704-binary-search/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
