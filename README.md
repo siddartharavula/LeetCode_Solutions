@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0120-triangle](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0120-triangle/) | Medium |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/siddartharavula/LeetCode_Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
