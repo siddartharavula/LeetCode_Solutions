@@ -1,6 +1,15 @@
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
         n=len(nums)
+        dp=[1]*n
+        ans=0
+        for i in range(n):
+            for j in range(i):
+                if nums[i]>nums[j] and 1+dp[j]>dp[i]:
+                    dp[i]=dp[j]+1
+            ans=max(ans,dp[i])
+        return ans 
+        
         import bisect # This module can be in sorted arrays
         ans=[nums[0]]
         for i in range(1,n):
